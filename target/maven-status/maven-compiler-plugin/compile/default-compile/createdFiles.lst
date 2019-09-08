@@ -1,0 +1,9 @@
+com/rickbala/service/MemberRegistration.class
+com/rickbala/data/MemberRepository.class
+com/rickbala/rest/MemberResourceRESTService.class
+com/rickbala/util/Resources.class
+com/rickbala/controller/MemberController.class
+com/rickbala/data/MemberListProducer.class
+com/rickbala/rest/JaxRsActivator.class
+com/rickbala/model/Member.class
+com/rickbala/model/Member_.class
